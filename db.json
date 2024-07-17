@@ -1,0 +1,55 @@
+{
+  "films": [
+    {
+      "id": "1",
+      "title": "Longlegs",
+      "runtime": "101",
+      "capacity": "40",
+      "showtime": "10:15pm",
+      "ticket_sold": "30",
+      "description": "Longlegs is a 2024 American horror thriller film written and directed by Osgood Perkins. It stars Maika Monroe and Nicolas Cage, who also produced the film through his Saturn Films production company. The cast also features Blair Underwood, Alicia Witt, Michelle Choi-Lee and Dakota Daulby in supporting roles. The film follows an FBI agent tasked with tracking down an occultist serial killer, to whom she realizes she has a personal connection.",
+      "poster": "https://variety.com/wp-content/uploads/2024/07/Longlegs.jpg?w=1000&h=667&crop=1",
+      "tickets_sold": 1
+    },
+    {
+      "id": "2",
+      "title": "Sing Sing",
+      "runtime": "107",
+      "capacity": "50",
+      "showtime": "8:00pm",
+      "ticket_sold": " 27",
+      "description": "Sing Sing, directed by Greg Kwedar, is a 2023 drama film based on the Rehabilitation Through the Arts program at Sing Sing Maximum Security Prison. Featuring professional actors and real-life participants, it explores the transformative power of art within the prison system. Premiering at the 2023 Toronto International Film Festival, it was released by A24 in the U.S. on July 12, 2024.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sing_Sing_poster.jpeg/1200px-Sing_Sing_poster.jpeg"
+    },
+    {
+      "id": "3",
+      "title": "The Fall Guy",
+      "runtime": "125",
+      "capacity": "30",
+      "showtime": "4:30pm",
+      "ticket_sold": " 27",
+      "description": "The Fall Guy is an American action-adventure television series that aired on ABC from 1981 to 1986. Starring Lee Majors, Douglas Barr, and Heather Thomas, the show follows a trio of Hollywood stunt performers who take on side jobs as bounty hunters. The series spanned five seasons and 113 episodes, blending action, comedy, and drama to create a unique blend of entertainment.",
+      "poster": "https://movies.universalpictures.com/media/thefallguy-1080x745-664ccb713adab-1.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Janet Planet",
+      "runtime": "113",
+      "capacity": "40",
+      "showtime": "6:15pm",
+      "ticket_sold": "22",
+      "description": "Janet Planet is a 2023 American coming-of-age drama film written and directed by Annie Baker in her feature directorial debut. Starring Julianne Nicholson, Zoe Ziegler, Elias Koteas, Will Patton, and Sophie Okonedo, the film premiered at the 50th Telluride Film Festival and was released in the United States on June 21, 2024.",
+      "poster": "https://i.guim.co.uk/img/media/37249e8e303aa11139886bf29c3fa0996c895696/0_25_7092_4260/master/7092.jpg?width=1200&quality=85&auto=format&fit=max&s=251219eb4aadd138b923794d9bb35229"
+    },
+    {
+      "id": "5",
+      "title": "GhostLight",
+      "runtime": "115",
+      "capacity": "50",
+      "showtime": "8:30",
+      "ticket_sold": "40",
+      "description": "Ghostlight is a 2024 American drama film directed by Kelly O'Sullivan and Alex Thompson, with O'Sullivan also writing the screenplay. The film, which premiered at the Sundance Film Festival on January 18, 2024, and was officially released on June 14, 2024, by IFC Films and Sapan Studio, tells the story of Dan, a melancholic construction worker who unexpectedly joins a local theater's production of 'Romeo and Juliet.' As he delves into the world of theater, the drama unfolding on stage begins to mirror his own life, prompting him to confront a personal loss. The film features a stellar cast including Keith Kupferer, Dolly de Leon, Katherine May Kupferer, Tara Mallen, Hana Dworkin, Tommy Rivera-Vega, Alma Washington, H.B. Ward, Dexter Zollicoffer, Deanna Dunagan, and Francis Guinan. 'Ghostlight' has garnered universal acclaim, with a 99% approval rating on Rotten Tomatoes and a Metacritic score of 83 out of 100, highlighting its profound emotional depth and exceptional performances.",
+      "poster": "https://resizing.flixster.com/WrTjHv-pdcb64HQcRDo2PbPsw80=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p27187151_v_h8_ac.jpg"
+    }
+  ]
+}
